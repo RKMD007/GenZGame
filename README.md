@@ -10,7 +10,7 @@
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
-    <meta name="apple-mobile-web-app-title" content="Gen Z Game">
+    <meta name="apple-mobile-web-app-title" content="GenZGame">
     
     <title>Vision Quest - Unlock Your Perfect Vision 🎮</title>
     
